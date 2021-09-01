@@ -14,7 +14,7 @@ There is also a version of it available on [Kaggle.](https://www.kaggle.com/roni
 If we can reach 95% accuracy at predicting whether or not a patient has heart disease during the proof of concept, we'll pursue the project.
 
 ### 4. Modeling
-After trying and hypertuning various classification models, **LogisticClassification** performs well with **accuracy of 84.46%** on cross-validation.
+After trying and hypertuning various classification models, **LogisticRegression** performs well with **accuracy of 84.46%** on cross-validation.
 
 
 

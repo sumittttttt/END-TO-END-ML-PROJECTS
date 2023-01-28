@@ -1,2 +1,3 @@
-### End to end Machine Learning Projects
-This repository contains some of the Machine Learning mini-projects that I did practiced during learning Data science, Machine Learning, and Deep Learning.
+# Machine Learning Mini Projects 
+
+This repository contains some of the Machine Learning mini-projects that I practiced during learning Data science, Machine Learning, and Deep Learning.
